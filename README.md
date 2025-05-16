@@ -1,16 +1,7 @@
-# jamur
+MOGI is an AI-powered smart application designed to help mushroom farmers monitor temperature and humidity in real-time while intelligently predicting mushroom growth. With integrated IoT sensors and Gemini AI, MOGI provides automated monitoring and data-driven recommendations to ensure stable and high-quality harvests.
 
-A new Flutter project.
+Key features include: Real-time monitoring of temperature and humidity, Mushroom growth prediction based on environmental data, Smart recommendations for optimized cultivation, Growth history tracking for analysis and improvement, Real-time access via a mobile app anytime, anywhere,
 
-## Getting Started
+MOGI empowers farmers to cultivate mushrooms more accurately and efficiently
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Front end here : https://github.com/justshev/mogi-backend
