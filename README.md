@@ -4,4 +4,4 @@ Key features include: Real-time monitoring of temperature and humidity, Mushroom
 
 MOGI empowers farmers to cultivate mushrooms more accurately and efficiently
 
-Front end here : https://github.com/justshev/mogi-backend
+Front end here : https://github.com/justshev/mogi_backend
